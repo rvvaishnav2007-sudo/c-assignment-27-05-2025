@@ -1,6 +1,6 @@
 # c-assignment-27-05-2025
-## NAME : BHARATHRAJ M
-## REG NO :212224060045
+## NAME : Vaishnav V
+## REG NO :212224060291
 1. 1. Write a program to read a string and count the number of vowels using a separate function.
 ```
 #include <stdio.h>
